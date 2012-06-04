@@ -1,0 +1,5 @@
+What Should we Play is a quick web site for deciding what board game to play.
+It uses a board game geek (boardgamegeek.com) profile as the source and then filters the games based on the given parameters.
+An example is running at http://flintworx.com/wswp/
+
+Enjoy.
